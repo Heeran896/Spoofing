@@ -23,9 +23,9 @@ python3 spam.py
 
 select = 4- Tokopedia
 Mode=1
-Phone No= +919457.......
+Phone No= +9779857.......
 Delay=1
 
 Mobile No should be in this format
 
-+91..............
++977
