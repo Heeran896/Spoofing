@@ -15,7 +15,7 @@ if Not working above Command for Python Environment Externally manage so try to 
 python3 pip install requests --break-system-packages
 
 
-git clone https://github.com/SACHINSIROHI47/WhatsApp-SMS-Spoof.git
+git clone https://github.com/HEERAN896/WhatsApp-SMS-Spoof.git
 
 cd WhatsApp-SMS-Spoof
 
